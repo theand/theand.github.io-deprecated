@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Heesang Chae]]></title>
-  <link href="http://theand.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Etc | Heesang Chae]]></title>
+  <link href="http://theand.github.io/blog/categories/etc/atom.xml" rel="self"/>
   <link href="http://theand.github.io/"/>
   <updated>2014-07-19T22:52:23+09:00</updated>
   <id>http://theand.github.io/</id>
