@@ -4,7 +4,7 @@
   <title><![CDATA[Heesang Chae]]></title>
   <link href="http://theand.github.io/atom.xml" rel="self"/>
   <link href="http://theand.github.io/"/>
-  <updated>2014-07-19T22:52:23+09:00</updated>
+  <updated>2014-12-14T12:44:41+09:00</updated>
   <id>http://theand.github.io/</id>
   <author>
     <name><![CDATA[Heesang Chae]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[테스트]]></title>
-    <link href="http://theand.github.io/blog/2014/07/test/"/>
-    <updated>2014-07-19T22:51:23+09:00</updated>
-    <id>http://theand.github.io/blog/2014/07/test</id>
-    <content type="html"><![CDATA[<h1>제목 테스트</h1>
-
-<p>어떻게 되나 볼까.</p>
-]]></content>
-  </entry>
   
 </feed>
